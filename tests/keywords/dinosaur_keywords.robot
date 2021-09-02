@@ -4,7 +4,7 @@ Library             OperatingSystem
 Library             String
 
 
-*** Keywords ***a
+*** Keywords ***
 
 Read Dinosaurs
     [Documentation]     Reads dinosaur.csv to a suite level variable
